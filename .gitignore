@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Runtime state (per-machine, not source)
+/meetings.json
+/logs/
+/.frugal-fable/
+
+# WhatsApp Web persistent profile (created by setup_whatsapp.py)
+wa-profile/
+
+# Scratch / working notes from delegated phases
+/phase*testoutput.md
+/locktest.txt
